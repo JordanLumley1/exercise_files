@@ -38,4 +38,3 @@ Belgium_population = int(Belgium[8:16])
 Brussels_population = int(Belgium[26:32])
 combined_population = (Belgium_population + Brussels_population)
 print(combined_population)
-
