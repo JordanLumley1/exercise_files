@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cec179f-9e73-4dc8-9290-38c3ca52a5c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ex12_ex13.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex12_q1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex12_q2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex12_q3_lotto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex13_write_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pelican.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex_8/.idea/ex_8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ex_10/atm_mechanism_getpass_.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ex_10/atm_mechanism_getpass_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ex_11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex_11/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ex_11/ex11_starter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ex_11/ex11_starter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/read_file.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +32,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/GetIntoTech/Repo/GetIntoTech/Python/file_handling/file_handling_ex1.py"
+    "last_opened_file_path": "C:/GetIntoTech/Repo/GetIntoTech/Python"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

@@ -17,8 +17,10 @@ print('')
 # Read pelican.txt file into a list and output number of items in that list.
 # Open file and place into variable.
 file_open = open('pelican.txt', 'r')
+
 # Read file contents now stored in variable.
 read = file_open.read()
+
 # Sort contents of variable into a list, separated by the \n line breaks.
 # Then print length of that list.
 sort_into_list = read.split('\n')
